@@ -1,0 +1,1 @@
+cmd_/home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/Module.symvers := sed 's/\.ko$$/\.o/' /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/modules.order | scripts/mod/modpost    -o /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/Module.symvers -e -i Module.symvers   -T -

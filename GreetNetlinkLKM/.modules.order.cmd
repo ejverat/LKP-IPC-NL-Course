@@ -1,0 +1,1 @@
+cmd_/home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/modules.order := {   echo /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/GreetNetlinkLKM.ko; :; } | awk '!x[$$0]++' - > /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/modules.order

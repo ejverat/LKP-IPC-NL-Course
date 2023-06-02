@@ -1,0 +1,1 @@
+cmd_/home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/GreetNetlinkLKM.mod := { echo  /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/GreetNetlinkLKM.o;  echo; } > /home/orangepi/projects/LKP-IPC-NL-Course/GreetNetlinkLKM/GreetNetlinkLKM.mod
